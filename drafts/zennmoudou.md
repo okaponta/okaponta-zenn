@@ -9,6 +9,7 @@
 | 第5回 | OIDC認証 | [../articles/9eaa2dcef0034d.md](../articles/9eaa2dcef0034d.md) | 2025/11/14 |
 | 第6回 | プリミティブ型と参照型 | [../articles/cc060a9aaa9e61.md](../articles/cc060a9aaa9e61.md) | 2025/11/16 |
 | 第7回 | HTTPヘッダー | [../articles/53b990aa4a7ed1.md](../articles/53b990aa4a7ed1.md) | 2025/11/25 |
+| 第8回 | Promise/async/await | [../articles/21c2b77375b808.md](../articles/21c2b77375b808.md) | 2025/11/28 |
 
 ## 未公開の記事
 
