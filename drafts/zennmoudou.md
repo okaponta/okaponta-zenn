@@ -10,6 +10,7 @@
 | 第6回 | プリミティブ型と参照型 | [../articles/cc060a9aaa9e61.md](../articles/cc060a9aaa9e61.md) | 2025/11/16 |
 | 第7回 | HTTPヘッダー | [../articles/53b990aa4a7ed1.md](../articles/53b990aa4a7ed1.md) | 2025/11/25 |
 | 第8回 | Promise/async/await | [../articles/21c2b77375b808.md](../articles/21c2b77375b808.md) | 2025/11/28 |
+| 第9回 | pom.xml | [../articles/2f5a70eac95231.md](../articles/2f5a70eac95231.md) | 2025/12/06 |
 
 ## 未公開の記事
 
