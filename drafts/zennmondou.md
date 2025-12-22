@@ -12,6 +12,7 @@
 | 第8回 | Promise/async/await | [../articles/21c2b77375b808.md](../articles/21c2b77375b808.md) | 2025/11/28 |
 | 第9回 | pom.xml | [../articles/2f5a70eac95231.md](../articles/2f5a70eac95231.md) | 2025/12/06 |
 | 第10回 | VPCまわり | [../articles/3279b165bc43b6.md](../articles/3279b165bc43b6.md) | 2025/12/11 |
+| 第11回 | パスキー | [../articles/00f9540907993a.md](../articles/00f9540907993a.md) | 2025/12/23 |
 
 ## 未公開の記事
 
