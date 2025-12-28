@@ -13,6 +13,7 @@
 | 第9回 | pom.xml | [../articles/2f5a70eac95231.md](../articles/2f5a70eac95231.md) | 2025/12/06 |
 | 第10回 | VPCまわり | [../articles/3279b165bc43b6.md](../articles/3279b165bc43b6.md) | 2025/12/11 |
 | 第11回 | パスキー | [../articles/00f9540907993a.md](../articles/00f9540907993a.md) | 2025/12/23 |
+| 第12回 | LLM | [../articles/a28bca9e87a88a.md](../articles/a28bca9e87a88a.md) | 2025/12/26 |
 
 ## 未公開の記事
 
