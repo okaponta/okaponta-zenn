@@ -15,6 +15,7 @@
 | 第11回 | パスキー | [../articles/00f9540907993a.md](../articles/00f9540907993a.md) | 2025/12/23 |
 | 第12回 | LLM | [../articles/a28bca9e87a88a.md](../articles/a28bca9e87a88a.md) | 2025/12/26 |
 | 第13回 | KotlinのValue Classと@JVMInline | [../articles/b07b21ff9ee81c.md](../articles/b07b21ff9ee81c.md) | 2026/01/10 |
+| 第14回 | zip | [../articles/f4d34690640c2e.md](../articles/f4d34690640c2e.md) | 2026/01/26 |
 
 ## 未公開の記事
 
