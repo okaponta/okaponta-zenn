@@ -17,6 +17,7 @@
 | 第13回 | KotlinのValue Classと@JVMInline | [../articles/b07b21ff9ee81c.md](../articles/b07b21ff9ee81c.md) | 2026/01/10 |
 | 第14回 | zip | [../articles/f4d34690640c2e.md](../articles/f4d34690640c2e.md) | 2026/01/26 |
 | 第15回 | VPN | [../articles/a2c8423061a640.md](../articles/a2c8423061a640.md) | 2026/02/03 |
+| 第16回 | Bluetooth | [../articles/ea189bf4ed44d5.md](../articles/ea189bf4ed44d5.md) | 2026/02/08 |
 
 ## 未公開の記事
 
