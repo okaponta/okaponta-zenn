@@ -25,14 +25,15 @@
 | 第21回 | RDS Proxy | [../articles/be698ab8db3946.md](../articles/be698ab8db3946.md) | 2026/03/29 |
 | 第22回 | mise | [../articles/849cdead7deb01.md](../articles/849cdead7deb01.md) | 2026/07/06 |
 | 第23回 | uv | [../articles/95bccf32b2557e.md](../articles/95bccf32b2557e.md) | 2026/07/18 |
+| 第24回 | React Compiler | [../articles/8f94503837a142.md](../articles/8f94503837a142.md) | 2026/08/08 |
 
 ## 未公開の記事
 
 | 回 | タイトル | 記事へのリンク | ステータス |
 |---|---|---|---|
-| 第X回 | Sealed Class | [../articles/d18600a9d2ca1b.md](../articles/d18600a9d2ca1b.md) | 未公開 |
 
 
 candidate
 
 - newSQL
+- hikari cp
