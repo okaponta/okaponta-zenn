@@ -28,6 +28,7 @@
 | 第24回 | React Compiler | [../articles/8f94503837a142.md](../articles/8f94503837a142.md) | 2026/08/08 |
 | 第25回 | HikariCP | [../articles/994748c60e00e4.md](../articles/994748c60e00e4.md) | 2026/08/09 |
 | 第26回 | Software Factory | [../articles/29b3ce2f1cb85d.md](../articles/29b3ce2f1cb85d.md) | 2026/09/19 |
+| 第27回 | Hono | [../articles/9727559bb68b07.md](../articles/9727559bb68b07.md) | 2026/11/11 |
 
 ## 未公開の記事
 
